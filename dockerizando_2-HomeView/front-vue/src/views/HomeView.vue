@@ -20,6 +20,12 @@
   import FeaturedCategories from '@/components/Home/FeaturedCategories.vue'
   import FeaturedThemes from '@/components/Home/FeaturedThemes.vue'
   import FeaturedProducts from '@/components/Home/FeaturedProducts.vue'
+  import Featuredbestseell from '@/components/Home/Featuredbestseell.vue'
+  import FeaturedSpecial from '@/components/Home/FeaturedSpecial.vue'
+  import Featureddio from '@/components/Home/FeaturedDio
+  
+  
+  .vue'
   </script>
   
   <style scoped>
